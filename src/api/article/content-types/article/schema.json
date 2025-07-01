@@ -19,6 +19,9 @@
       "type": "text",
       "maxLength": 80
     },
+    "excerpt": {
+      "type": "text"
+    },
     "slug": {
       "type": "uid",
       "targetField": "title"
